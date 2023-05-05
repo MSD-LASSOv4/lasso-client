@@ -11,6 +11,6 @@ This script does an ssh into the server and executes specified command. Currentl
 <img width="627" alt="image" src="https://user-images.githubusercontent.com/70246251/236528438-61fbed7f-aa45-410a-b6d6-fc94fc3359a7.png">
 
 ### Connect_Williamson.py (Run on Server)
-This script will ssh into the Williamson pi and run a capture based off the given frequency and capture time parameters
+This script will ssh into the Williamson pi and run a capture based off the given frequency and capture time parameters.
 
 
